@@ -1,0 +1,77 @@
+{
+    "data":[
+        {
+"name":"UX Researcher",
+"location":"Manchestor",
+"description":"This is job description to edit in this admin dashboard section if you are posting a new job.",
+"image":"https://images.unsplash.com/photo-1585184394271-4c0a47dc59c9?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"company":"Apple"
+        },{
+            "name":"Web Developer",
+"location":"London",
+"description":"This is job description to edit in this admin dashboard section if you are posting a new job.",
+"image":"https://images.unsplash.com/photo-1529612700005-e35377bf1415?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"company":"Google"
+
+        },
+        {
+            "name":"Web Developer",
+"location":"London",
+"description":"This is job description to edit in this admin dashboard section if you are posting a new job.",
+"image":"https://images.unsplash.com/photo-1585184394271-4c0a47dc59c9?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"company":"Apple"
+
+        },
+        {
+            "name":"Web Developer",
+"location":"London",
+"description":"This is job description to edit in this admin dashboard section if you are posting a new job.",
+"image":"https://images.unsplash.com/photo-1529612700005-e35377bf1415?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"company":"Google"
+
+        }, {
+            "name":"Web Developer",
+"location":"London",
+"description":"This is job description to edit in this admin dashboard section if you are posting a new job.",
+"image":"https://images.unsplash.com/photo-1614680376408-81e91ffe3db7?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"company":"Whatsapp"
+
+        }, {
+            "name":"Web Developer",
+"location":"London",
+"description":"This is job description to edit in this admin dashboard section if you are posting a new job.",
+"image":"https://images.unsplash.com/photo-1585184394271-4c0a47dc59c9?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"company":"Apple"
+
+        }, {
+            "name":"Web Developer",
+"location":"London",
+"description":"This is job description to edit in this admin dashboard section if you are posting a new job.",
+"image":"https://images.unsplash.com/photo-1529612700005-e35377bf1415?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"company":"Google"
+
+        },{
+            "name":"Web Developer",
+"location":"London",
+"description":"This is job description to edit in this admin dashboard section if you are posting a new job.",
+"image":"https://images.unsplash.com/photo-1585184394271-4c0a47dc59c9?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"company":"Apple"
+
+        }
+    ],
+    "accounts":[{
+"name":"Simplicity",
+"image":"https://images.unsplash.com/photo-1615752865424-62638daceeae?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"description":"Things being made beautiful simple are at the heart of everything we do."
+    },
+    {
+        "name":"Social Good",
+        "image":"https://media.istockphoto.com/id/1331470022/photo/indian-white-collar-male-worker-in-wheelchair-having-cheerful-discussion-leading-conversation.jpg?s=612x612&w=is&k=20&c=iK8yaNvrBzDVrhXW_2GqHJzylGT33KW97XgYtSWzn-k=",
+        "description":"We believe in making things better for everyone,even if just by a little bit."
+            },
+            {
+                "name":"Trust",
+                "image":"https://media.istockphoto.com/id/1344874415/photo/shot-of-a-young-businessman-showing-thumbs-up-while-using-a-laptop-at-a-conference.jpg?s=612x612&w=is&k=20&c=IqtK735D23cNhuAD176Esqaw96k9KWBidBtTsU0KW-4=",
+                "description":"We work on the basis of creating trust which can be nurtured through authentically and transparency."
+                    }]
+}
